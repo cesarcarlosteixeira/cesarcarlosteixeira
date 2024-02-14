@@ -1,2 +1,2 @@
-##About me
-i am a simple programer
+## About me
+I am a simple programer
